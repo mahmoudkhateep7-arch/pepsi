@@ -5,7 +5,7 @@ export default function () {
   const morethan600=(window.innerWidth)
 
   return (
-    <div className=" px-4  md:flex md:h-[calc(100vh-80px)] md:items-center md:px-20 md:gap-30 lg:gap-50">
+    <div className="flex-1 px-4  md:flex bg-acmber-700 justify-center md:items-center md:px-20 md:gap-30 lg:gap-50">
       <div className=' px-10 md:px-0'>
         <h1 className="text-3xl py-8 flex flex-col gap-2">
           <span>THAT'S WHAT</span>
